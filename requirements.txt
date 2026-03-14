@@ -1,0 +1,9 @@
+pandas
+numpy
+transformers
+peft
+accelerate
+datasets
+torch
+scikit-learn
+langdetect  # for language detection if needed
